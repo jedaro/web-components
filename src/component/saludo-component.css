@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .title {
+    font-weight: bold;
+    color: red;
+  }
+
+  .parrafo {
+    font-weight: normal;
+    color: black;
+  }
